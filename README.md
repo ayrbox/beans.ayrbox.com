@@ -1,2 +1,3 @@
-# beans.ayrbox.com
-Personal Portfolio and Blog
+# beans.Ayrbox.com
+
+Personal website and blog.
